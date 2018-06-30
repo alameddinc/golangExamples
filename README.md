@@ -2,6 +2,8 @@
 #### The following book will help you learn Go language.
 [GoLang Book](https://www.golang-book.com/books/intro)
 
+## Examples
+
 1. Hello
 2. Variables
 3. if else & switch
