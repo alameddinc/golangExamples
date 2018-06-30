@@ -1,11 +1,13 @@
-Golang Examples
+# Golang Examples
+#### The following book will help you learn Go language.
+[GoLang Book](https://www.golang-book.com/books/intro)
 
-0- Hello
-1- Variables
-2- if else & switch
-3- Loops
-4- Arrays
-5- Maps
-6- Functions
-7- Functions #2
-8- ...
+1. Hello
+2. Variables
+3. if else & switch
+4. Loops
+5. Arrays
+6. Maps
+7. Functions
+8. Functions #2
+9. ...
