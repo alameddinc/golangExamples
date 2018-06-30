@@ -2,6 +2,8 @@
 #### The following book will help you learn Go language.
 [GoLang Book](https://www.golang-book.com/books/intro)
 
+
+[Türkçe (Turkish Readme)](https://github.com/alameddince/golangExamples/blob/master/README-tr-TR.md)
 ## Examples
 
 1. Hello
