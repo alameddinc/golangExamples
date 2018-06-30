@@ -6,8 +6,8 @@
 
 1. Hello
 2. Variables
-3. if else & switch
-4. Loops
+3. if else & switch (controlStructures)
+4. Loops (controlStructures 2)
 5. Arrays
 6. Maps
 7. Functions
