@@ -43,7 +43,7 @@ func main()  {
 
   result:=sumAll(2,3,4,5,7,10)
   fmt.Println(result)
-  cyrpterText("zalameddin",27)
+  cyrpterText("alameddin",27)
 
 
 }
