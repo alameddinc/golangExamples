@@ -16,11 +16,11 @@
 10. Alt çizgi Kullanımı (underscore.go) ✓
 11. Closure (Local Fonksiyon Yapısı) (closure1.go ve closure2.go) ✓
 12. Defer & Panic & Recover ✘
-13. Pointers ✓ (pointer.go pointer2.go)
-14. Structs ✓
-15. Struct Yapısında Fonksiyonlar ✘
+13. Pointers  (pointer.go pointer2.go) ✓
+14. Structs (struct.go) ✓
+15. Struct Yapısında Fonksiyonlar (methods.go) ✓
 16. Interfaces ✘
-17. Goroutines ✘
+17. Goroutines ✓
 18. Channels ✘
 19. Create Yourself Package ✘
 20. Test Package ✘
