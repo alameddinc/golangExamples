@@ -14,10 +14,10 @@
 8. Fonksiyonlar 2 (functionCrypt.go) ✓
 9. Fonksiyonlar 3 (recursiveFunction.go) ✓
 10. Alt çizgi Kullanımı (underscore.go) ✓
-11. Closure (Local Fonksiyon Yapısı) (closure.go) ✘
+11. Closure (Local Fonksiyon Yapısı) (closure1.go ve closure2.go) ✓
 12. Defer & Panic & Recover ✘
-13. Pointers ✘
-14. Structs ✘
+13. Pointers ✓ (pointer.go pointer2.go)
+14. Structs ✓
 15. Struct Yapısında Fonksiyonlar ✘
 16. Interfaces ✘
 17. Goroutines ✘

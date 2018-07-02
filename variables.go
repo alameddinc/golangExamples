@@ -18,4 +18,7 @@ func main()  {
   name3 :="Alameddin Çelik"
 
 
+  //Extras
+  var unsignedInteger uint = 199
+
 }

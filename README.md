@@ -13,13 +13,13 @@
 5. Arrays ✓
 6. Maps ✓
 7. Functions ✓
-8. Functions 2 ✓
-9. Function 3 ✓
+8. Function Examples (Crypter) ✓
+9. Function (Recursive Function) ✓
 10. Underscore Symbol ✓
-11. Closure ✘
+11. Closure 1-2 ✓
 12. Defer & Panic & Recover ✘
-13. Pointers ✘
-14. Structs ✘
+13. Pointers 1-2 ✓
+14. Structs ✓
 15. Struct's Methods ✘
 16. Interfaces ✘
 17. Goroutines ✘
