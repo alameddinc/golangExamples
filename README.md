@@ -15,7 +15,7 @@
 7. Functions ✓
 8. Functions 2 ✓
 9. Function 3 ✓
-10. Underscore ✘
+10. Underscore Symbol ✓
 11. Closure ✘
 12. Defer & Panic & Recover ✘
 13. Pointers ✘

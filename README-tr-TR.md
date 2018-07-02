@@ -13,7 +13,7 @@
 7. Fonksiyonlar 1  (function1.go) ✓
 8. Fonksiyonlar 2 (functionCrypt.go) ✓
 9. Fonksiyonlar 3 (recursiveFunction.go) ✓
-10. Alt çizgi Kullanımı (underscore.go)
+10. Alt çizgi Kullanımı (underscore.go) ✓
 11. Closure (Local Fonksiyon Yapısı) (closure.go) ✘
 12. Defer & Panic & Recover ✘
 13. Pointers ✘
@@ -27,3 +27,7 @@
 21. Grafik çizdirmek ✘
 22. Arayüz Tasarımı GoLang ✘
 23. Robot Programlama ✘
+24. ...
+25. ...
+26. ...
+27. ...
