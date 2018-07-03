@@ -19,7 +19,7 @@
 13. Pointers  (pointer.go pointer2.go) ✓
 14. Structs (struct.go) ✓
 15. Struct Yapısında Fonksiyonlar (methods.go) ✓
-16. Interfaces ✘
+16. Interfaces ✓
 17. Goroutines ✓
 18. Channels ✘
 19. Create Yourself Package ✘

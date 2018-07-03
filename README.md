@@ -21,7 +21,7 @@
 13. Pointers 1-2 ✓
 14. Structs ✓
 15. Struct's Methods ✓
-16. Interfaces ✘
+16. Interfaces ✓
 17. Goroutines ✓
 18. Channels ✘
 19. Create Yourself Package ✘
