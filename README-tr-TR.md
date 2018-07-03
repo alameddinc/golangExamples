@@ -19,15 +19,7 @@
 13. Pointers  (pointer.go pointer2.go) ✓
 14. Structs (struct.go) ✓
 15. Struct Yapısında Fonksiyonlar (methods.go) ✓
-16. Interfaces ✘
+16. Interfaces ✓
 17. Goroutines ✓
 18. Channels ✘
 19. Create Yourself Package ✘
-20. Test Package ✘
-21. Grafik çizdirmek ✘
-22. Arayüz Tasarımı GoLang ✘
-23. Robot Programlama ✘
-24. ...
-25. ...
-26. ...
-27. ...

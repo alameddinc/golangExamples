@@ -21,15 +21,7 @@
 13. Pointers 1-2 ✓
 14. Structs ✓
 15. Struct's Methods ✓
-16. Interfaces ✘
+16. Interfaces ✓
 17. Goroutines ✓
 18. Channels ✘
 19. Create Yourself Package ✘
-20. Test Package ✘
-21. Draw Graph on GoLang ✘
-22. Gui on GoLang ✘
-23. Robot Programming on Golang ✘
-24. ...
-25. ...
-26. ...
-27. ...
