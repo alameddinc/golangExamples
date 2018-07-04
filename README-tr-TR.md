@@ -22,7 +22,7 @@
 16. Interfaces ✓
 17. Goroutines ✓
 18. Channels ✓
-19. Create Yourself Package ✘
+19. Create Yourself Package ✓
 20. Test Package ✘
 21. Grafik çizdirmek ✘
 22. Arayüz Tasarımı GoLang ✘
