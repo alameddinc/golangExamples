@@ -26,7 +26,7 @@
 18. Channels ✓
 19. Create Yourself Package ✓
 20. Test Package ✘
-21. Draw Graph on GoLang ✘
+21. Draw on GoLang ✓
 22. Gui on GoLang ✘
 23. Robot Programming on Golang ✘
 24. ...
